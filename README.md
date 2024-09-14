@@ -2,9 +2,9 @@
 
 ## Environment setup:
 	python -m pip install --upgrade pip
-	Install packages:
+ 
+## Install packages:
 	pip install -r requirements.txt
-
 
 ## Run App:
 	streamlit run main.py
